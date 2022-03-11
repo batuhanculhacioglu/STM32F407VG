@@ -1,0 +1,12 @@
+LCD.c:42:6:Delay	16	static
+LCD.c:46:6:lcd_delay	8	static
+LCD.c:51:6:lcd_cmd	16	static
+LCD.c:96:6:lcd_char_cp	16	static
+LCD.c:141:6:lcd_out_cp	16	static
+LCD.c:152:6:lcd_init	16	static
+LCD.c:169:6:lcd_gotoxy	16	static
+LCD.c:181:6:lcd_char	16	static
+LCD.c:187:6:lcd_print	16	static
+LCD.c:192:6:lcd_clear	8	static
+LCD.c:198:6:lcd_line1	8	static
+LCD.c:202:6:lcd_line2	8	static
